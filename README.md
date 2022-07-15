@@ -1,4 +1,4 @@
-#Odin's Recipes
+# Odin's Recipes
 
 This project is designed to test my knowledge with HTML, in order to build a simple recipes website. 
 

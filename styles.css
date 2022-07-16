@@ -5,20 +5,21 @@ body{
     text-align: center;
 }
 
-h1{
-    font-size: 50px;
+#main-title-text{
+    font-size: 100px;
+    font-weight: bold;
+    text-decoration: underline;
+
 }
 
 .description{
-    background-color: slategray;
-    max-width: 75%;
-    
+    margin: auto 15%;
+    font-size: 40px;
+    max-width: 50vw;
 }
 
-.recipe-list{
-    background-color: lightslategrey;
+#recipe-list{
     color: white;
-    padding: 20px;
     font-size: 50px;
     text-align: left;
     
@@ -27,4 +28,20 @@ h1{
 #norse-feast-main{
     height: 600px;
     width: auto;
+}
+
+.recipe-ingredients, .recipe-directions {
+    text-align: left;
+    padding: 0 20px;
+    margin: auto;
+    max-width: 50vw;
+    font-size: 25px;
+    border: 1px solid white;
+    border-radius: 10px;
+
+}
+
+.recipe-directions h2, .recipe-ingredients h2 {
+    font-size: 40px;
+    text-decoration: underline;
 }

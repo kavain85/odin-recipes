@@ -1,8 +1,8 @@
 body{
-    background-color: slategray;
+    background-color: rgb(88, 102, 116);
     color: white;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #main-title-text{
@@ -13,20 +13,34 @@ body{
 }
 
 .description{
-    margin: auto 15%;
+    background-color: slategray;
+    margin: auto;
     font-size: 40px;
-    max-width: 50vw;
+    width: 80vw;
+    max-width: 1500px;
+    padding: 0 20px;
+    margin: auto;
+    border: 1px solid white;
+    border-radius: 10px;
+
 }
 
 #recipe-list{
-    color: white;
-    font-size: 50px;
+    background-color: slategray;
     text-align: left;
+    padding: 0 20px;
+    margin: 20px auto;
+    max-width: 80vw;
+    font-size: 25px;
+    border: 1px solid white;
+    border-radius: 10px;
     
 }
 
+
 #norse-feast-main{
-    height: 600px;
+    padding: 20px;
+    height: 500px;
     width: auto;
 }
 

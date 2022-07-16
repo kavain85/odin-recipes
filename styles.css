@@ -1,0 +1,17 @@
+body{
+    background-color: slategray;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.recipe-list{
+    background-color: lightslategrey;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+}

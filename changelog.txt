@@ -1,0 +1,7 @@
+Changelog(s):
+
+    07/15/22
+        Initial commit of repo files
+        Added recipe pages, and links on main home page to them
+        Added CSS styling to all pages
+        Added image on main home page

@@ -9,11 +9,19 @@ h1{
     font-size: 50px;
 }
 
+.description{
+    background-color: slategray;
+    max-width: 75%;
+    
+}
+
 .recipe-list{
     background-color: lightslategrey;
     color: white;
     padding: 20px;
-    font-size: 20px;
+    font-size: 50px;
+    text-align: left;
+    
 }
 
 #norse-feast-main{
